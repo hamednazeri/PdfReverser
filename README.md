@@ -75,7 +75,7 @@ Example usage:
 PdfReverser_Release\main.exe
 ```
 
-> *(Add instructions here: how to select the PDF, if there's a GUI, CLI arguments, etc.)*
+<!-- > *(Add instructions here: how to select the PDF, if there's a GUI, CLI arguments, etc.)* -->
 
 <!-- ---
 
